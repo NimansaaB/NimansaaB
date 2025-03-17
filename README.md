@@ -23,7 +23,11 @@ I'm a passionate Computer Science undergraduate with a strong focus on UI/UX des
 ## 📚 Education
 
 - BSc (Hons) Computer Science, Informatics Institute of Technology affiliated with the University of Westminster, UK (Expected Graduation year – 2027)
+- Cambridge English: Proficiency (CPE), Cambridge English Qualifications (Awarded by Cambridge University, UK) – In progress
+- Cambridge English: Advanced (CAE), Cambridge English Qualifications (Awarded by Cambridge University, UK) – Achieved June 2024 (Score: 184)
 - Certificate Course in English Language, Institute of Human Resource Advancement (IHRA), University of Colombo (Apr 2023 - Oct 2023)
+- G.C.E Advanced Level (A/L), Anula Vidyalaya, Nugegoda (2023 [2022])
+- G.C.E Ordinary Level (O/L), Anula Vidyalaya, Nugegoda (2019)
 
 ## 🚀 Projects
 
