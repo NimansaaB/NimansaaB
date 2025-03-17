@@ -66,4 +66,4 @@ Designed an AI-driven recipe discovery prototype in Figma, enabling users to inp
 
 ## 🌟 Fun Fact
 
-🐾🎾 Fun Fact: When I'm not coding, you can find me playing fetch with my energetic dog, Jesper! He's my favourite coding buddy who reminds me to take breaks and enjoy life outside of work. 😄🐶
+🐾🎾 When I'm not coding, you can find me playing fetch with my energetic dog, Jesper! He's my favourite coding buddy who reminds me to take breaks and enjoy life outside of work. 😄🐶
