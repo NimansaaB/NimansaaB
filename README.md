@@ -1,6 +1,6 @@
-![Header](https://github.com/nimansab22/nimansab22/raw/main/header.gif)
+![Header](https://github.com/nimansab22/nimansab22/raw/main/futuristic_header.gif)
 
-# 🚀 Nimansa Bandara | Software Engineer of the Future
+# 🚀 Nimansa Bandara | Software Engineer of the Future 🌌
 
 I'm a forward-thinking Computer Science undergraduate with a strong foundation in software development, specializing in UI/UX Design, Web Frontend Development, and Mobile Application Development. I'm passionate about creating intuitive, user-friendly interfaces and solving real-world challenges through technology.
 
@@ -22,42 +22,32 @@ I'm a forward-thinking Computer Science undergraduate with a strong foundation i
 
 ## 📚 Education
 
-<details>
-  <summary>Click to expand</summary>
-  
-  - BSc (Hons) Computer Science, Informatics Institute of Technology affiliated with the University of Westminster, UK (Expected Graduation year – 2027)
-  - Cambridge English Qualifications (Awarded by Cambridge University, UK)
-    - Cambridge English: Proficiency (CPE) – In progress
-    - Cambridge English: Advanced (CAE) – Achieved June 2024 (Score: 184)
-  - Certificate Course in English Language, Institute of Human Resource Advancement (IHRA), University of Colombo (Apr 2023 - Oct 2023)
-</details>
+- BSc (Hons) Computer Science, Informatics Institute of Technology affiliated with the University of Westminster, UK (Expected Graduation year – 2027)
+- Cambridge English Qualifications (Awarded by Cambridge University, UK)
+  - Cambridge English: Proficiency (CPE) – In progress
+  - Cambridge English: Advanced (CAE) – Achieved June 2024 (Score: 184)
+- Certificate Course in English Language, Institute of Human Resource Advancement (IHRA), University of Colombo (Apr 2023 - Oct 2023)
 
 ## 🌌 Projects
 
-<details>
-  <summary>InfraTrack | SDGP (Sep 2024 - Present)</summary>
-  
-  A group project utilizing machine learning to analyze images of road issues like potholes and broken streetlights. Developing with Flutter for mobile and Spring Boot for the backend, ensuring seamless issue reporting and validation.
-</details>
+### 🔍 InfraTrack | SDGP (Sep 2024 - Present)
 
-<details>
-  <summary>Dice Duel – Mobile Game | Mobile App Development (Feb 2025 - Present)</summary>
-  
-  A Kotlin-based Android game where a human player competes against AI in a strategic dice-rolling challenge. Features include randomized dice rolls, rerolls, score tracking, and AI decision-making for an engaging gameplay experience.
-</details>
+A group project utilizing machine learning to analyze images of road issues like potholes and broken streetlights. Developing with Flutter for mobile and Spring Boot for the backend, ensuring seamless issue reporting and validation.
 
-<details>
-  <summary>TaskMaster – Task Management App (Feb 2025 - Present)</summary>
-  
-  A full-stack task management application with an interactive dashboard, progress tracking, and secure authentication. Built using React, Tailwind CSS, Node.js, Express, and MySQL for scalability and efficiency.
-</details>
+### 🎲 Dice Duel – Mobile Game | Mobile App Development (Feb 2025 - Present)
 
-*[See more projects...](https://nimansaab.github.io/portfolio/)*
+A Kotlin-based Android game where a human player competes against AI in a strategic dice-rolling challenge. Features include randomized dice rolls, rerolls, score tracking, and AI decision-making for an engaging gameplay experience.
+
+### 📝 TaskMaster – Task Management App (Feb 2025 - Present)
+
+A full-stack task management application with an interactive dashboard, progress tracking, and secure authentication. Built using React, Tailwind CSS, Node.js, Express, and MySQL for scalability and efficiency.
+
+*[Explore more projects...](https://nimansaab.github.io/portfolio/)*
 
 ## 🏆 Honors & Awards
 
-- 1st Place - Coderally 5.0 24hrs Hackathon & Workshop Series, IEEE Computer Society SBC of IIT
-- IEEE Xtreme 18.0 24hrs Hackathon, IEEE SBC of IIT
+- 🥇 1st Place - Coderally 5.0 24hrs Hackathon & Workshop Series, IEEE Computer Society SBC of IIT
+- 🌟 IEEE Xtreme 18.0 24hrs Hackathon, IEEE SBC of IIT
 
 ## 📞 Contact Me
 
@@ -72,3 +62,7 @@ I'm a forward-thinking Computer Science undergraduate with a strong foundation i
     <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
   </a>
 </p>
+
+---
+
+![Footer](https://github.com/nimansab22/nimansab22/raw/main/futuristic_footer.gif)
