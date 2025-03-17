@@ -1,4 +1,5 @@
-# 🎨 Nimansa Bandara | Aspiring UI/UX Designer & Full-Stack Developer
+<h1 align="center">Nimansa Bandara</h1>
+<h3 align="center">Aspiring UI/UX Designer & Full-Stack Developer</h3>
 
 I'm a passionate Computer Science undergraduate with a strong focus on UI/UX design and full-stack development. My goal is to create intuitive, user-friendly interfaces and develop robust, scalable applications that solve real-world problems. I'm constantly learning and exploring new technologies and design trends to improve my skills.
 
