@@ -50,6 +50,25 @@ Designed an AI-driven recipe discovery prototype in Figma, enabling users to inp
 - 1st Place - Coderally 5.0 24hrs Hackathon & Workshop Series, IEEE Computer Society SBC of IIT
 - IEEE Xtreme 18.0 24hrs Hackathon, IEEE SBC of IIT
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NimansaaB&theme=rose_pine&hide_border=false" alt="GitHub Streak Stats" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NimansaaB&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NimansaaB&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NimansaaB&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+</p>
+
 ## 📞 Let's Connect
 
 <p align="center">
